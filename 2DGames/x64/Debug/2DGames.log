@@ -1,0 +1,50 @@
+﻿  glad.c
+  ball_object.cpp
+  game.cpp
+D:\Project\2DGames\2DGames\game.cpp(221,36): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\Project\2DGames\2DGames\game.cpp(239,45): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\Project\2DGames\2DGames\game.cpp(242,66): warning C4244: “参数”: 从“unsigned int”转换到“float”，可能丢失数据
+D:\Project\2DGames\2DGames\game.cpp(511,29): warning C4244: “初始化”: 从“float”转换到“unsigned int”，可能丢失数据
+  game_level.cpp
+D:\Project\2DGames\2DGames\game_level.cpp(39,42): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+D:\Project\2DGames\2DGames\game_level.cpp(40,44): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+D:\Project\2DGames\2DGames\game_level.cpp(41,73): warning C4244: “初始化”: 从“unsigned int”转换到“float”，可能丢失数据
+  game_object.cpp
+  particle_generator.cpp
+  program.cpp
+D:\Project\2DGames\2DGames\program.cpp(58,28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  resource_manager.cpp
+  shader.cpp
+  post_processor.cpp
+  sprite_renderer.cpp
+  stb_image.cpp
+  texture.cpp
+  text_renderer.cpp
+D:\Project\2DGames\2DGames\text_renderer.cpp(80,33): warning C4838: 从“FT_Pos”转换到“unsigned int”需要收缩转换
+  正在生成代码...
+    正在创建库 D:\Project\2DGames\x64\Debug\2DGames.lib 和对象 D:\Project\2DGames\x64\Debug\2DGames.exp
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+freetype.lib(autofit.obj) : warning LNK4099: 未找到 PDB“freetype.pdb”(使用“freetype.lib(autofit.obj)”或在“D:\Project\2DGames\x64\Debug\freetype.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(ftbase.obj) : warning LNK4099: 未找到 PDB“freetype.pdb”(使用“freetype.lib(ftbase.obj)”或在“D:\Project\2DGames\x64\Debug\freetype.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(ftbitmap.obj) : warning LNK4099: 未找到 PDB“freetype.pdb”(使用“freetype.lib(ftbitmap.obj)”或在“D:\Project\2DGames\x64\Debug\freetype.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(ftinit.obj) : warning LNK4099: 未找到 PDB“freetype.pdb”(使用“freetype.lib(ftinit.obj)”或在“D:\Project\2DGames\x64\Debug\freetype.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(ftsystem.obj) : warning LNK4099: 未找到 PDB“freetype.pdb”(使用“freetype.lib(ftsystem.obj)”或在“D:\Project\2DGames\x64\Debug\freetype.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(bdf.obj) : warning LNK4099: 未找到 PDB“freetype.pdb”(使用“freetype.lib(bdf.obj)”或在“D:\Project\2DGames\x64\Debug\freetype.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(cff.obj) : warning LNK4099: 未找到 PDB“freetype.pdb”(使用“freetype.lib(cff.obj)”或在“D:\Project\2DGames\x64\Debug\freetype.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(type1cid.obj) : warning LNK4099: 未找到 PDB“freetype.pdb”(使用“freetype.lib(type1cid.obj)”或在“D:\Project\2DGames\x64\Debug\freetype.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(ftgzip.obj) : warning LNK4099: 未找到 PDB“freetype.pdb”(使用“freetype.lib(ftgzip.obj)”或在“D:\Project\2DGames\x64\Debug\freetype.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(ftlzw.obj) : warning LNK4099: 未找到 PDB“freetype.pdb”(使用“freetype.lib(ftlzw.obj)”或在“D:\Project\2DGames\x64\Debug\freetype.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(pcf.obj) : warning LNK4099: 未找到 PDB“freetype.pdb”(使用“freetype.lib(pcf.obj)”或在“D:\Project\2DGames\x64\Debug\freetype.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(pfr.obj) : warning LNK4099: 未找到 PDB“freetype.pdb”(使用“freetype.lib(pfr.obj)”或在“D:\Project\2DGames\x64\Debug\freetype.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(psaux.obj) : warning LNK4099: 未找到 PDB“freetype.pdb”(使用“freetype.lib(psaux.obj)”或在“D:\Project\2DGames\x64\Debug\freetype.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(pshinter.obj) : warning LNK4099: 未找到 PDB“freetype.pdb”(使用“freetype.lib(pshinter.obj)”或在“D:\Project\2DGames\x64\Debug\freetype.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(psmodule.obj) : warning LNK4099: 未找到 PDB“freetype.pdb”(使用“freetype.lib(psmodule.obj)”或在“D:\Project\2DGames\x64\Debug\freetype.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(raster.obj) : warning LNK4099: 未找到 PDB“freetype.pdb”(使用“freetype.lib(raster.obj)”或在“D:\Project\2DGames\x64\Debug\freetype.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(sfnt.obj) : warning LNK4099: 未找到 PDB“”(使用“freetype.lib(sfnt.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(smooth.obj) : warning LNK4099: 未找到 PDB“freetype.pdb”(使用“freetype.lib(smooth.obj)”或在“D:\Project\2DGames\x64\Debug\freetype.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(truetype.obj) : warning LNK4099: 未找到 PDB“freetype.pdb”(使用“freetype.lib(truetype.obj)”或在“D:\Project\2DGames\x64\Debug\freetype.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(type1.obj) : warning LNK4099: 未找到 PDB“freetype.pdb”(使用“freetype.lib(type1.obj)”或在“D:\Project\2DGames\x64\Debug\freetype.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(type42.obj) : warning LNK4099: 未找到 PDB“freetype.pdb”(使用“freetype.lib(type42.obj)”或在“D:\Project\2DGames\x64\Debug\freetype.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(winfnt.obj) : warning LNK4099: 未找到 PDB“freetype.pdb”(使用“freetype.lib(winfnt.obj)”或在“D:\Project\2DGames\x64\Debug\freetype.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(ftdebug.obj) : warning LNK4099: 未找到 PDB“freetype.pdb”(使用“freetype.lib(ftdebug.obj)”或在“D:\Project\2DGames\x64\Debug\freetype.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  2DGames.vcxproj -> D:\Project\2DGames\x64\Debug\2DGames.exe
